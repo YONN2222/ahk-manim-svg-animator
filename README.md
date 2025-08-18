@@ -40,4 +40,4 @@ Manim SVG Animator is an AutoHotkey v2 script that automates the animation of SV
 ## Troubleshooting
 - Make sure all requirements are installed and available in your PATH.
 - If Manim fails to render, check the terminal for errors and verify your Python/Manim installation.
-- The script only works when an SVG file is selected in Windows Explorer.
+- The script only works when an SVG file is selected in **Windows Explorer**.
