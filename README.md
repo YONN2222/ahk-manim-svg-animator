@@ -9,13 +9,13 @@ Manim SVG Animator is an AutoHotkey v2 script that automates the animation of SV
 - Moves the rendered video to the SVG's folder and opens it
 
 ## Requirements
-- [AutoHotkey v2](https://www.autohotkey.com/download/ahk-v2)
+- [AutoHotkey v2](https://www.autohotkey.com/)
 - [Python 3.8+](https://www.python.org/downloads/)
 - [Manim Community Edition](https://docs.manim.community/en/stable/installation.html)
 
 ## Installation
 1. **Install AutoHotkey v2**
-   - Download and install from [here](https://www.autohotkey.com/download/ahk-v2).
+   - Download and install from [here](https://www.autohotkey.com/).
 2. **Install Python (recommended: 3.8+)**
    - Download and install from [here](https://www.python.org/downloads/).
 3. **Install Manim**
