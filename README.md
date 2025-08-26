@@ -33,8 +33,10 @@ Manim SVG Animator is an AutoHotkey v2 script that automates the animation of SV
 3. The script will:
    - Copy the selected SVG path
    - Generate a Python script for Manim
+   - Makes the Text the Name of the File (without .svg)
    - Render the animation
    - Move the resulting `.mp4` to the SVG's folder
+   - Delete the Temp Python Script
    - Open the video file automatically
 
 ## Troubleshooting
